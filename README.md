@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Kaiosilver
-- 👀 I’m interested in Aprender, aprimorar  e compartilhar os conhecimentos adquiridos 
-- 🌱 I’m currently learning  linguagem C, estou no primeiro periodo da faculdade.
-- 📫 How to reach me  Kaiosilver@gmail.com
+Olá Sou KAIO SILVER, aluno do curso de Sistema de Informação e por aqui afim de adquirir novos conhecimentos.
 
 <!---
 Kaiosilver/Kaiosilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
